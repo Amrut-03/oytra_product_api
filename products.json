@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ball Pen Pack (Blue)",
+    "price": 120,
+    "moq": 10
+  },
+  {
+    "name": "Gel Pens Set",
+    "price": 250,
+    "moq": 5
+  },
+  {
+    "name": "A4 Notebook",
+    "price": 80,
+    "moq": 20
+  },
+  {
+    "name": "Drawing Book",
+    "price": 150,
+    "moq": 10
+  },
+  {
+    "name": "Sketch Pens (12 Colors)",
+    "price": 200,
+    "moq": 5
+  },
+  {
+    "name": "Color Pencils Set",
+    "price": 180,
+    "moq": 5
+  },
+  {
+    "name": "Eraser Pack",
+    "price": 50,
+    "moq": 15
+  },
+  {
+    "name": "Sharpener",
+    "price": 20,
+    "moq": 20
+  },
+  {
+    "name": "Highlighter Set",
+    "price": 300,
+    "moq": 3
+  },
+  {
+    "name": "Sticky Notes",
+    "price": 60,
+    "moq": 10
+  },
+  {
+    "name": "Stapler Machine",
+    "price": 220,
+    "moq": 2
+  },
+  {
+    "name": "Glue Stick",
+    "price": 40,
+    "moq": 15
+  },
+  {
+    "name": "Watercolor Set",
+    "price": 350,
+    "moq": 3
+  },
+  {
+    "name": "Paint Brushes Set",
+    "price": 270,
+    "moq": 3
+  }
+]
